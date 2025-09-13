@@ -1,4 +1,4 @@
-ةةreadme_content = """
+
 # 🏦 Credit Scoring Model
 
 ## 📌 Overview
