@@ -3,7 +3,8 @@
 
 ## 📌 Overview
 This project builds a **Credit Scoring Model** to predict an individual's creditworthiness using past financial and demographic data.  
-The model helps financial institutions decide whether to approve or reject loan/credit applications.
+The model helps financial institutions decide whether to approve or reject loan/credit applications.  
+It also demonstrates practical applications of Machine Learning for real-world financial decision-making.
 
 ---
 
@@ -20,6 +21,7 @@ The model helps financial institutions decide whether to approve or reject loan/
   - **Accuracy**
   - **Precision, Recall, F1-Score**
   - **ROC-AUC**
+- Compare model performances and identify the most reliable predictor.
 
 ---
 
@@ -29,8 +31,10 @@ The dataset includes applicant information such as:
 - Existing debts  
 - Payment history  
 - Marital status, gender, and other demographic details  
+- Credit history features such as late payments or defaults  
 
-*(Dataset is included in this repository / provided separately.)*
+*(Dataset is included in this repository / provided separately.)*  
+> Note: The dataset is preprocessed for missing values and categorical features encoding.
 
 ---
 
