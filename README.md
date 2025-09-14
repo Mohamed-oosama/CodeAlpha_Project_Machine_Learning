@@ -41,4 +41,4 @@ Each project includes **data preprocessing, model building, evaluation, and visu
 ---
 
 ## 👨‍💻 Author
-Developed by **[Mohamed Kamel]**  
+Developed by **Mohamed Kamel**  
