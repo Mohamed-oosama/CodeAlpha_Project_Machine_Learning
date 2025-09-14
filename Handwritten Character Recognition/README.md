@@ -10,7 +10,7 @@ By leveraging the power of deep learning, the system can achieve high accuracy i
 - Bank cheque processing
 - Document digitization
 
----
+--- 
 
 ## 🎯 Objectives
 - Develop a CNN model capable of recognizing handwritten characters with high accuracy.  
