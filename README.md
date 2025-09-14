@@ -1,4 +1,4 @@
-# 🚀 Machine Learning & Deep Learning Projects Portfolio
+# 🚀 Machine Learning Projects
 
 This repository contains three complete projects that apply **Machine Learning** and **Deep Learning** techniques to solve real-world problems.  
 Each project includes **data preprocessing, model building, evaluation, and visualization of results**.
