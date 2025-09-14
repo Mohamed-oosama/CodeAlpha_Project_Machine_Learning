@@ -64,3 +64,20 @@ The dataset includes **patient health information** such as:
 - Deploy the model as a **web app** (using Streamlit/Flask).  
 - Improve accuracy with **Ensemble Learning**.  
 - Use **Deep Learning models** for better prediction.  
+
+## 📂 Project Structure
+
+---
+
+## 📌 Tech Stack
+- Python 🐍  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
+
+---
+
+## 🙌 Acknowledgments
+- Dataset source: [UCI Machine Learning Repository - Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/heart+Disease)  
+- Inspiration from real-world healthcare predictive analytics.
